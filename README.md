@@ -51,10 +51,10 @@ To run the **Orders Application** locally, follow these steps:
 
     Ensure you have Docker installed on your machine.
 
-   In the project directory, create a Docker image using the provided Dockerfile:
+    In the project directory, create a Docker image using the provided Dockerfile:
 
-    ```bash
-    docker build -t orders-app.
+     ```bash
+     docker build -t orders-app.
 
    This command builds a Docker image named "orders-app" based on the Dockerfile in the project directory
 
@@ -64,6 +64,8 @@ To run the **Orders Application** locally, follow these steps:
     ```bash
     docker run -p 8080:8080 orders-app
 
-  This command maps port 8080 from the Docker container to port 8080 on your host machine, assuming the application listens on port 8080. Adjust the port mapping if needed.
 
-  The application should now be accessible at http://localhost:8080, just like when running it locally.
+
+This command maps port 8080 from the Docker container to port 8080 on your host machine, assuming the application listens on port 8080. Adjust the port mapping if needed.
+
+The application should now be accessible at http://localhost:8080, just like when running it locally.
