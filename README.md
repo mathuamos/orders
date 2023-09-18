@@ -28,12 +28,12 @@ To run the **Orders Application** locally, follow these steps:
 3. Install project dependencies:
 
     ```bash
-     go get -d ./...
+    go get -d ./...
 
 4. Build and run the application:
 
     ```bash
-     go run main.go
+    go run main.go
 
    The application should now be running locally at http://localhost:8080. You can access it using your web browser or API testing tool
 
@@ -42,7 +42,7 @@ To run the **Orders Application** locally, follow these steps:
    To run tests for the Orders Application, execute the following command from the project root directory
 
     ```bash
-     go test ./...
+    go test ./...
 
 
 6. Dockerization 
@@ -54,14 +54,14 @@ To run the **Orders Application** locally, follow these steps:
    In the project directory, create a Docker image using the provided Dockerfile:
 
     ```bash
-     docker build -t orders-app.
+    docker build -t orders-app.
 
    This command builds a Docker image named "orders-app" based on the Dockerfile in the project directory
 
    After building the Docker image, you can run the Orders Application in a Docker container
 
 
-   ```bash
+    ```bash
     docker run -p 8080:8080 orders-app
 
   This command maps port 8080 from the Docker container to port 8080 on your host machine, assuming the application listens on port 8080. Adjust the port mapping if needed.
