@@ -1,0 +1,16 @@
+{
+   
+    "db":{
+        "dns":"root:Nash!234@tcp(localhost)/cart",
+        "driver":"mysql"
+    },
+
+    "system_logging":{
+        "log_url":"/Users/amosmathu/lenstech/orders/log/info.log",
+        "MaxSize":"300",
+        "MaxBackups": "3",
+        "MaxAge":"14",
+        "Compress":"true"
+       
+    }
+}

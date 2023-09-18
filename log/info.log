@@ -1,0 +1,60 @@
+2023/09/15 12:19:46.926220 common.go:36: microseconds added to prefix
+2023/09/15 12:19:46.926518 common.go:49: Database 1 created successfully
+2023/09/15 12:19:46.926534 main.go:20: app  started
+2023/09/15 12:44:21.366055 common.go:36: microseconds added to prefix
+2023/09/15 12:44:21.366559 common.go:49: Database 1 created successfully
+2023/09/15 12:44:21.366589 main.go:21: app  started
+2023/09/15 12:46:00.470289 common.go:36: microseconds added to prefix
+2023/09/15 12:46:00.470666 common.go:49: Database 1 created successfully
+2023/09/15 12:46:00.470680 main.go:21: app  started
+2023/09/15 12:56:45.798764 common.go:36: microseconds added to prefix
+2023/09/15 12:56:45.799520 common.go:49: Database 1 created successfully
+2023/09/15 12:56:45.799546 main.go:19: jackpot   started
+2023/09/15 13:22:52.379154 common.go:36: microseconds added to prefix
+2023/09/15 13:22:52.379578 common.go:49: Database 1 created successfully
+2023/09/15 13:22:52.379600 main.go:20: Your application started
+2023/09/15 13:25:40.119844 common.go:36: microseconds added to prefix
+2023/09/15 13:25:40.120946 common.go:49: Database 1 created successfully
+2023/09/15 13:25:40.120980 main.go:20: Your application started
+2023/09/15 13:27:56.912378 common.go:36: microseconds added to prefix
+2023/09/15 13:27:56.913072 common.go:49: Database 1 created successfully
+2023/09/15 13:27:56.913096 main.go:20: Your application started
+2023/09/15 13:34:16.897069 common.go:36: microseconds added to prefix
+2023/09/15 13:34:16.897487 common.go:49: Database 1 created successfully
+2023/09/15 13:34:16.897507 main.go:20: Your application started
+2023/09/15 13:37:59.258132 common.go:36: microseconds added to prefix
+2023/09/15 13:37:59.258844 common.go:49: Database 1 created successfully
+2023/09/15 13:37:59.258881 main.go:20: Your application started
+2023/09/15 13:40:20.790415 common.go:36: microseconds added to prefix
+2023/09/15 13:40:20.790833 common.go:49: Database 1 created successfully
+2023/09/15 13:40:20.790857 main.go:20: Your application started
+2023/09/15 13:41:56.877658 common.go:36: microseconds added to prefix
+2023/09/15 13:41:56.877817 common.go:49: Database 1 created successfully
+2023/09/15 13:41:56.877838 main.go:20: Your application started
+2023/09/15 14:56:38.901444 common.go:36: microseconds added to prefix
+2023/09/15 14:56:38.901810 common.go:49: Database 1 created successfully
+2023/09/15 14:56:38.901829 main.go:20: Your application started
+2023/09/15 14:57:53.913498 common.go:36: microseconds added to prefix
+2023/09/15 14:57:53.913657 common.go:49: Database 1 created successfully
+2023/09/15 14:57:53.913680 main.go:20: Your application started
+2023/09/15 15:10:31.619294 common.go:36: microseconds added to prefix
+2023/09/15 15:10:31.619755 common.go:49: Database 1 created successfully
+2023/09/15 15:10:31.619779 main.go:20: Your application started
+2023/09/15 15:17:52.659036 common.go:36: microseconds added to prefix
+2023/09/15 15:17:52.659368 common.go:49: Database 1 created successfully
+2023/09/15 15:17:52.659422 main.go:20: Your application started
+2023/09/15 15:20:14.018087 common.go:36: microseconds added to prefix
+2023/09/15 15:20:14.018515 common.go:49: Database 1 created successfully
+2023/09/15 15:20:14.018540 main.go:20: Your application started
+2023/09/15 15:42:31.378938 common.go:36: microseconds added to prefix
+2023/09/15 15:42:31.379366 common.go:49: Database 1 created successfully
+2023/09/15 15:42:31.379391 main.go:20: Your application started
+2023/09/15 15:50:05.233675 common.go:36: microseconds added to prefix
+2023/09/15 15:50:05.234065 common.go:49: Database 1 created successfully
+2023/09/15 15:50:05.234090 main.go:20: Your application started
+2023/09/15 15:51:44.727588 common.go:36: microseconds added to prefix
+2023/09/15 15:51:44.727726 common.go:49: Database 1 created successfully
+2023/09/15 15:51:44.727740 main.go:20: Your application started
+2023/09/18 12:39:39.456276 common.go:36: microseconds added to prefix
+2023/09/18 12:39:39.456696 common.go:49: Database 1 created successfully
+2023/09/18 12:39:39.456719 main.go:20: Your application started
