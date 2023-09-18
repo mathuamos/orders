@@ -20,17 +20,17 @@ To run the **Orders Application** locally, follow these steps:
    git clone https://github.com/yourusername/orders-app.git
 
 
-Change to the project directory:
+2. Change to the project directory:
 
-  ```bash
-  cd orders-app
+   ```bash
+   cd orders-app
 
-Install project dependencies:
+3. Install project dependencies:
 
     ```bash
      go get -d ./...
 
-Build and run the application:
+4. Build and run the application:
 
     ```bash
     go run main.go
@@ -44,15 +44,15 @@ To run tests for the Orders Application, execute the following command from the 
    go test ./...
 
 
-Dockerization
+5. Dockerization 
 
-You can also run the Orders Application in a Docker container. Follow these steps to build and run a Docker container for the application.
+ You can also run the Orders Application in a Docker container. Follow these steps to build and run a Docker container for the application.
 
 Ensure you have Docker installed on your machine.
 
 In the project directory, create a Docker image using the provided Dockerfile:
 
-  ```bash
+   ```bash
    docker build -t orders-app .
 
 This command builds a Docker image named "orders-app" based on the Dockerfile in the project directory.
