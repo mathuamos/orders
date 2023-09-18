@@ -37,23 +37,25 @@ To run the **Orders Application** locally, follow these steps:
 
 The application should now be running locally at http://localhost:8080. You can access it using your web browser or API testing tool
 
-Running Tests
+5. Running Tests
+
 To run tests for the Orders Application, execute the following command from the project root directory
 
-   ```bash
-   go test ./...
+    ```bash
+    go test ./...
+
 
 
 5. Dockerization 
 
- You can also run the Orders Application in a Docker container. Follow these steps to build and run a Docker container for the application.
+You can also run the Orders Application in a Docker container. Follow these steps to build and run a Docker container for the application.
 
 Ensure you have Docker installed on your machine.
 
 In the project directory, create a Docker image using the provided Dockerfile:
 
-   ```bash
-   docker build -t orders-app .
+    ```bash
+    docker build -t orders-app .
 
 This command builds a Docker image named "orders-app" based on the Dockerfile in the project directory.
 
